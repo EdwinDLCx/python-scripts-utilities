@@ -38,9 +38,11 @@ Ideal para cuando quieres saber si tu API está lista para la guerra... o si se 
 5. Exporta los resultados a `results_mass_test.csv`.
 
 ---
+## 1️⃣ Instalar dependencias
+    pip install aiohttp
 
+---
 ## 🚀 Uso
+    python api_test.py
 
-### 1️⃣ Instalar dependencias
-```bash
-pip install aiohttp
+
