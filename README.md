@@ -1,5 +1,8 @@
 # Python Scripts & Utilities
 
+[![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 Este repositorio sirve como **biblioteca personal de scripts en Python**, ideal para desarrolladores que quieran:  
 
 - Realizar **pruebas de carga y estrés de APIs** de manera asíncrona.  
